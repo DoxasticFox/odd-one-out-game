@@ -15,7 +15,7 @@ Load the file in the Python interpreter using
 
     execfile("odd one out.py")
 
-then call odd function from the console like so
+then call `odd` function from the console like so
 
     >>> odd('arm', 'leg', 'computer')
     'computer'
