@@ -9,7 +9,6 @@ This is a short program which uses Wordnet to select the "odd one out" from a li
 * Python 2
 * NLTK (I don't remember which version)
 
-
 ### Usage ###
 
 Load the file in the Python interpreter using
