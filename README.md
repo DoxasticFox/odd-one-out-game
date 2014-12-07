@@ -17,5 +17,7 @@ Load the file in the Python interpreter using
 
 then call odd function from the console like so
 
-    >>> odd("arm", "leg", "computer")
+    >>> odd('arm', 'leg', 'computer')
     'computer'
+    >>> odd('liver', 'spleen', 'battery', 'tongue')
+    'battery'
