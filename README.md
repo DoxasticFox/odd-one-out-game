@@ -1,7 +1,7 @@
 # README #
 
 ### About ###
-This is a quick and somewhat dirty script which uses Wordnet to select the "odd one out" from a list (of arbitrary size). For example, in the list "arm, leg, computer", the only object which isn't a limb is the odd one out.
+This is a quick and dirty script which uses Wordnet to select the "odd one out" from a list (of arbitrary size). For example, in the list "arm, leg, computer", the only object which isn't a limb is the odd one out.
 
 ### Dependencies ###
 * Python 2
